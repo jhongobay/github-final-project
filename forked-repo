@@ -1,3 +1,4 @@
+
 Perintah:
 curl https://github.com
 
@@ -10,6 +11,4 @@ Output:
     "full_name": "ibm-developer-skills-network/mcino-Introduction-to-Git-and-GitHub",
     "html_url": "https://github.com"
   }
-  ... (sisa output lainnya)
 }
-
