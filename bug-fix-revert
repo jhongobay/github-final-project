@@ -1,1 +1,22 @@
+Perintah:
+curl https://github.com
+
+Output:
+[
+  {
+    "url": "https://github.com",
+    "state": "closed",
+    "title": "Bug fix typo",
+    "user": {
+      "login": "jhongobay"
+    },
+    "head": {
+      "label": "jhongobay:bug-fix-typo",
+      "repo": {
+        "full_name": "jhongobay/Kalkulator-bunga-",
+        "fork": true
+      }
+    }
+  }
+]
 
