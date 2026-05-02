@@ -4,7 +4,7 @@ curl https://github.com
 Output:
 [
   {
-    "url": "https://github.com",
+    "url": "https://github....com",
     "state": "closed",
     "title": "Bug fix typo",
     "user": {
