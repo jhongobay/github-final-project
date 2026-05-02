@@ -1,1 +1,15 @@
+Perintah:
+curl https://github.com
+
+Output:
+{
+  "name": "Kalkulator-bunga-",
+  "full_name": "jhongobay/Kalkulator-bunga-",
+  "fork": true,
+  "parent": {
+    "full_name": "ibm-developer-skills-network/mcino-Introduction-to-Git-and-GitHub",
+    "html_url": "https://github.com"
+  }
+  ... (sisa output lainnya)
+}
 
