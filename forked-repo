@@ -1,13 +1,17 @@
-
-Perintah:
-curl https://github.com
+Perintah: curl https://github.com
 
 Output:
 {
   "name": "Kalkulator-bunga-",
   "full_name": "jhongobay/Kalkulator-bunga-",
+  "private": false,
   "fork": true,
+  "url": "https://github.com",
   "parent": {
+    "full_name": "ibm-developer-skills-network/mcino-Introduction-to-Git-and-GitHub",
+    "html_url": "https://github.com"
+  },
+  "source": {
     "full_name": "ibm-developer-skills-network/mcino-Introduction-to-Git-and-GitHub",
     "html_url": "https://github.com"
   }
