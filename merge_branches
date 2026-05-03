@@ -4,7 +4,5 @@ Switched to branch 'main'
 $ git merge bug-fix-typo
 Updating a1b2c3d..e5f6g7h
 Fast-forward
- simple-interest.sh | 2 +-
- 1 file changed, 1 insertion(+), 1 deletion(-)
-
-
+ simple-interest.sh | 1 +
+ 1 file changed, 1 insertion(+)
