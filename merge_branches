@@ -1,8 +1,8 @@
-$ git checkout main
+user:~/project$ git checkout main
 Switched to branch 'main'
 
-$ git merge bug-fix-typo
+user:~/project$ git merge bug-fix-typo
 Updating a1b2c3d..e5f6g7h
 Fast-forward
- simple-interest.sh | 1 +
+ README.md | 1 +
  1 file changed, 1 insertion(+)
