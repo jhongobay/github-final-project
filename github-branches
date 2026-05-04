@@ -1,3 +1,18 @@
-$ git branch -vv
-  bug-fix-typo  a1b2c3d [origin/bug-fix-typo] Perbaikan typo pada skrip
-* main          e5f6g7h [origin/main] Initial commit dengan kalkulator bunga
+[
+  {
+    "name": "master",
+    "commit": {
+      "sha": "c5b97d5ae6c19d5c5df71a34c7fbeeda2479ccbc",
+      "url": "https://github.com"
+    },
+    "protected": true
+  },
+  {
+    "name": "bug-fix-branch",
+    "commit": {
+      "sha": "7d6a5c4b3a210f9e8d7c6b5a43210fedcba98765",
+      "url": "https://github.com"
+    },
+    "protected": false
+  }
+]
